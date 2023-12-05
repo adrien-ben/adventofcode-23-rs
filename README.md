@@ -6,5 +6,5 @@ https://adventofcode.com/
 
 ```sh
 # replace bin by one the file in src/bin
-cargo run --bin <bin>
+cargo run --bin <bin> --release
 ```
